@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali211003&label=Profile%20views&color=0e75b6&style=flat" alt="anjali211003" /> </p>
 
-- 🔭 I’m currently working on **handwritten digit recognition**
+- 🔭 I’m currently working on **Email Sending App**
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **mongodb**
 
 - 💬 Ask me about **web development**
 
