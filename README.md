@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5501](http://127.0.0.1:5501)
+- 👨‍💻 All of my projects are available at [(https://wonderful-kitsune-7a9148.netlify.app/)]
 
 - 💬 Ask me about **Database Connectivity**
 
