@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali211003" alt="anjali211003" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfnniwR2BuFK0rNHr0wSIUDDTKjCGCVuaig&usqp=CAU" align="right" height="200" width="400">
 
 - 🔭 I’m currently working on **Cloud Computing**
 
