@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **REACT FRAMEWORK**
+- 🔭 I’m currently working on **Cloud Computing**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Git Commands**
+- 👯 I’m looking to collaborate on **SQL**
 
 - 🤝 I’m looking for help with **Data Science**
 
