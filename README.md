@@ -18,13 +18,13 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [(https://wonderful-kitsune-7a9148.netlify.app/)]
+- 👨‍💻 All of my projects are available at [https://anjali.dev.voyage]
 
 - 💬 Ask me about **Database Connectivity**
 
 - 📫 How to reach me **guptaanjali90757@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/616511b0-31a2-11ed-8369-ad9a13d3106b](https://novoresume.com/editor/resume/616511b0-31a2-11ed-8369-ad9a13d3106b)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pXbFW0LSDzdZuauhj7ugY22ifg3rM9IT/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
